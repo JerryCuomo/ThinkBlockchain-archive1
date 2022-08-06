@@ -5,9 +5,23 @@
 1.  Go into the sampecode directory
 `cd samplecode/Duckchain/duckchain.js`
 
-2.  Questions:
-*How many classes do you see?*
 
-*How many functions?* 
+*How many classes do you see?*
+Two.
+
+*What are the classes?*
+Block and Blockchain
+
+*How many functions in duckchain.js?*
+Seven.
+
+What are the functions in duckchain.js?
+Two constructor functions for the classes (Block and Blockchain).
+The other functions are:
+calculateHash()
+createGenesisBlock()
+getLatestBlock()
+addBlock()
+isChainValid()
 
 

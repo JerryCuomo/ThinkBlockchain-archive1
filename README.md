@@ -2,7 +2,7 @@
 
 ## Chapter       
 
-- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks)
+- [Blockchain Ducks](https://github.com/bmos299/Blockchain101/tree/main/Blockchain%20Ducks). 
 
 - [Three Blockchain Stories](https://github.com/bmos299/Blockchain101/tree/main/Three%20Blockchain%20Stories)
 
@@ -19,9 +19,27 @@
 - [Cybersecurity, Zero Knowledge Proof and Digital Identity](https://github.com/bmos299/Blockchain101/tree/main/Cybersecurity%2C%20Zero%20Knowledge%20Proof%20and%20Digital%20Identity)
 
 
-## Chapter Description
+## Getting Started -- Setup!
 
-What is in each chapter...
+1.  Clone the repository as you desire.  Here is the repository: https://github.com/bmos299/Think-Blockchain
+You can clone the repository however you choose.  Here is a sample cli command you can issue:
+`git clone https://github.com/bmos299/Think-Blockchain.git`
+
+2.  On your laptop or desktop ensure you have installed npm.  
+
+3.  Install the package.json
+`cd samplecode/Duckchain/package.json`
+
+Install the package(s):
+`npm install`
+
+4.  Verify the node_module
+`cd ../node_modules`
+
+You should see: *crypto-js*
+
+## Chapter Assignments
+1.  Chapter 3.  Goto [How Blockchain works](https://github.com/bmos299/Blockchain101/tree/main/How%20Blockchain%20Works) and follow the README.md.
  
 ## Contributing
 

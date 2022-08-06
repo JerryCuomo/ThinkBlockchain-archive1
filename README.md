@@ -1,6 +1,6 @@
 # [ThinkBlockchain](https://www.amazon.com/Think-Blockchain-students-blockchains-evolution/dp/1667855573)
 
-## Chapter       
+## Chapter Assignments     
 
 
 - [How Blockchain Works](https://github.com/bmos299/ThinkBlockchain/tree/main/How%20Blockchain%20Works)

@@ -21,7 +21,7 @@ The other functions are:
 calculateHash.      
 createGenesisBlock.         
 getLatestBlock.    
-addBlock. 
+addBlock.     
 isChainValid.    
 
 

@@ -65,7 +65,8 @@ barrymosakowski@barrymosakow-mac Duckchain %
 ```
 duckchain.chain[1].data = "howard";
 duckchain.chain[1].hash = duckchain.chain[1].calculateHash();
-```.   
+```
+      
 This is the heart and soul of blockhain! 
 
 How this was caught was using the function isChainValid().  And the reason is Block 2 had a value for the previousHash that it saved when the block was created.  This value should always match the hash of the previous block.  If it does not that indicates the block was changed.  Here is the code that caught the failure:

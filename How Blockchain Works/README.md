@@ -1,6 +1,6 @@
 # How Blockchain Works
 
-## Let's run some code!
+## Let's examine and run some code!
 
 1.  Go into the sampecode directory
 `cd samplecode/Duckchain/duckchain.js`
@@ -22,6 +22,9 @@ calculateHash.
 createGenesisBlock.         
 getLatestBlock.    
 addBlock.     
-isChainValid.    
+isChainValid. 
+
+     
+
 
 

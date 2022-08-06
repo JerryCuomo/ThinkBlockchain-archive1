@@ -6,7 +6,7 @@
 `cd samplecode/Duckchain/duckchain.js`
 
 
-*How many classes do you see?*
+**How many classes do you see?**
 Two.
 
 *What are the classes?*

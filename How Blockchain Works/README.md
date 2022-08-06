@@ -60,7 +60,7 @@ barrymosakowski@barrymosakow-mac Duckchain %
 ```
      
 
- **7.  Explain in words and show the lines of code that failed after we hacked the code**.    
+ **7.  Explain in words and show the lines of code that caught the hack of our blockchain**.    
  The code in duckchain.js modified the the block for index 1.   It changed the data and then recalculated the hash.  
 ```
 duckchain.chain[1].data = "howard";

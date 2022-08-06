@@ -2,20 +2,20 @@
 
 ## Let's examine and run some code!
 
-**Go into the sampecode directory**.    
+**1.  Go into the sampecode directory**.    
 `cd samplecode/Duckchain/duckchain.js`
 
 
-**How many classes do you see?**.    
+**2.  How many classes do you see?**.    
 Two.
 
 **What are the classes?**.    
 Block and Blockchain
 
-**How many functions in duckchain.js?**.    
+**3.  How many functions in duckchain.js?**.    
 Seven.     
 
-**What are the functions in duckchain.js?**.         
+**4.  What are the functions in duckchain.js?**.         
 Two constructor functions for the classes (Block and Blockchain).    
 The other functions are:        
 calculateHash.      
@@ -24,10 +24,10 @@ getLatestBlock.
 addBlock.     
 isChainValid.     
 
-**Run the code**.     
+**5.  Run the code**.     
 `node duckchain.js`.    
 
-**Cut and paste the output from the run.**
+**6.  Cut and paste the output from the run.**
 ```
 barrymosakowski@barrymosakow-mac Duckchain % node duckchain.js
 {
@@ -60,7 +60,7 @@ barrymosakowski@barrymosakow-mac Duckchain %
 ```
      
 
- **Explain in words and show the lines of code that failed after we hacked the code**.    
+ **7.  Explain in words and show the lines of code that failed after we hacked the code**.    
  The code in duckchain.js modified the the block for index 1.   It changed the data and then recalculated the hash.  
 ```
 duckchain.chain[1].data = "howard";
@@ -80,7 +80,7 @@ How this was caught was using the function isChainValid().  And the reason is Bl
 
 You can always add console.log's around this statement to prove the values do not match any longer.     
 
-**Add another block to the end of duckchain.js using your first and last name as the data and cut and paste the output here.  Also show the line of code you added**.
+**8.  Add another block to the end of duckchain.js using your first and last name as the data and cut and paste the output here.  Also show the line of code you added**.
 
 ```
 duckchain.addBlock(new Block(3, "barrymosakowski" ));

@@ -1,6 +1,6 @@
 # How Blockchain Works
 
-## Let's examine and run some code!
+## Let's review the code then run it!
 
 **1.  Go into the sampecode directory**.    
 `cd samplecode/Duckchain/duckchain.js`

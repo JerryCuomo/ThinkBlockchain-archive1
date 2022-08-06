@@ -27,7 +27,7 @@ Install the package(s):
 You should see: *crypto-js*
 
 ## Chapter Assignments
-1.  Chapter 3.  Goto [How Blockchain Works](https://github.com/bmos299/Blockchain101/tree/main/How%20Blockchain%20Works) and follow the README.md.
+1.  Goto [How Blockchain Works](https://github.com/bmos299/ThinkBlockchain/tree/main/How%20Blockchain%20Works) and follow the README.md.
  
 ## Contributing
 

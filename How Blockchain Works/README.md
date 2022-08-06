@@ -78,7 +78,46 @@ How this was caught was using the function isChainValid().  And the reason is Bl
             }
 ```     
 
-You can always add console.log's around this statement to prove the values do not match any longer. 
+You can always add console.log's around this statement to prove the values do not match any longer.     
+
+**Add another block to the end of duckchain.js using your first and last name as the data and cut and paste the output here.  Also show the line of code you added**.
+
+```
+duckchain.addBlock(new Block(3, "barrymosakowski" ));
+
+barrymosakowski@barrymosakow-mac Duckchain % node duckchain3.js
+{
+    "chain": [
+        {
+            "index": 0,
+            "data": "Genesis Block Quack Quack!",
+            "hash": "fc2193068c46fa6568886afcf5835030a1db99abc1faad2205f864e191f0c839",
+            "previousHash": "0"
+        },
+        {
+            "index": 1,
+            "data": "donald",
+            "hash": "0b72f7611b4ad7c8c82dc8cc351bd7ecd0fe5ca58629087b9a89fe2144fd1f8d",
+            "previousHash": "fc2193068c46fa6568886afcf5835030a1db99abc1faad2205f864e191f0c839"
+        },
+        {
+            "index": 2,
+            "data": "daffy",
+            "hash": "ac76324eabe385711b526e40a2ca4b6d8f7b2fd93c5b5fd90880eac9ef7169ba",
+            "previousHash": "0b72f7611b4ad7c8c82dc8cc351bd7ecd0fe5ca58629087b9a89fe2144fd1f8d"
+        },
+        {
+            "index": 3,
+            "data": "barrymosakowski",
+            "hash": "1c300e9f3d4847495561849f3006f0aa289a4a46e1dad984e3970ad63456992a",
+            "previousHash": "ac76324eabe385711b526e40a2ca4b6d8f7b2fd93c5b5fd90880eac9ef7169ba"
+        }
+    ]
+}
+Is the Duckchain valid? true
+```
+
+
 
 
  

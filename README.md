@@ -9,7 +9,7 @@
  
 ## Getting Started -- Setup!
 
-1.  Clone the repository as you desire.  Here is the repository: https://github.com/bmos299/Think-Blockchain
+1.  Clone the repository as you desire.  Here is the repository: https://github.com/bmos299/ThinkBlockchain
 You can clone the repository however you choose.  Here is a sample cli command you can issue:
 `git clone https://github.com/bmos299/Think-Blockchain.git`
 

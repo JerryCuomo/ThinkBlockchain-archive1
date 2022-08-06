@@ -11,7 +11,7 @@
 
 1.  Clone the repository as you desire.  Here is the repository: https://github.com/bmos299/ThinkBlockchain
 You can clone the repository however you choose.  Here is a sample cli command you can issue:
-`git clone https://github.com/bmos299/Think-Blockchain.git`
+`git clone https://github.com/bmos299/ThinkBlockchain.git`
 
 2.  On your laptop or desktop ensure you have installed npm.  
 

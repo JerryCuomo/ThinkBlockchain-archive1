@@ -2,7 +2,7 @@
 
 ## Let's examine and run some code!
 
-1.  Go into the sampecode directory
+# 1.  Go into the sampecode directory
 `cd samplecode/Duckchain/duckchain.js`
 
 

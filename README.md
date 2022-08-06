@@ -1,4 +1,4 @@
-# - [Think Blockchain](https://www.amazon.com/Think-Blockchain-students-blockchains-evolution/dp/1667855573)
+# [Think Blockchain](https://www.amazon.com/Think-Blockchain-students-blockchains-evolution/dp/1667855573)
 
 ## Chapter       
 

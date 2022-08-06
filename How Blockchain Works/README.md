@@ -57,7 +57,8 @@ OK, let us do some hacking!
 Invalid previousHash - Block #2
 Is the Duckchain valid? false
 barrymosakowski@barrymosakow-mac Duckchain %
-```.    
+```
+     
 
  **Explain in words and show the lines of code that failed after we hacked the code**.    
  The code in duckchain.js modified the the block for index 1.   It changed the data and then recalculated the hash.  

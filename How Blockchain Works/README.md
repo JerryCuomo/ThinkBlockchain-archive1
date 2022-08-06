@@ -18,10 +18,10 @@ Seven.
 What are the functions in duckchain.js?
 Two constructor functions for the classes (Block and Blockchain).
 The other functions are:        
-calculateHash().    
-createGenesisBlock().     
+calculateHash.      
+createGenesisBlock.         
 getLatestBlock.    
 addBlock. 
-isChainValid. . 
+isChainValid.    
 
 

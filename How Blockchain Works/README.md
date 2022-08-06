@@ -1,6 +1,9 @@
 # How Blockchain Works
 
+
 ## Let's review the code then run it!
+
+**Please submit a PR with your answers.  Your answers should be added to this README.md file.** 
 
 **1.  Go into the sampecode directory**.    
 `cd samplecode/Duckchain/duckchain.js`
@@ -116,6 +119,7 @@ barrymosakowski@barrymosakow-mac Duckchain % node duckchain3.js
 }
 Is the Duckchain valid? true
 ```
+
 
 
 

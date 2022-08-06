@@ -3,7 +3,7 @@
 ## Chapter       
 
 
-- [How Blockchain Works][(https://github.com/bmos299/ThinkBlockchain/tree/main/How%20Blockchain%20Works)]
+- [How Blockchain Works](https://github.com/bmos299/ThinkBlockchain/tree/main/How%20Blockchain%20Works)
 - [Cryptocurrency, Bitcoin and Mining](https://github.com/bmos299/ThinkBlockchain/tree/main/Cryptocurrency%2C%20Bitcoin%20and%20Mining)
 - [Tokens, Ethereum and Smart contracts](https://github.com/bmos299/Blockchain101/tree/main/Tokens%2C%20Ethereum%20and%20Smart%20Contracts)
  

@@ -94,6 +94,7 @@ console.log(JSON.stringify(duckchain, null, 4));
 console.log('Is the Duckchain valid? ' + duckchain.isChainValid());
 
 // Tamper with the chain and test validity again
+console.log("\nLet us do some hacking!");
 duckchain.chain[1].data = "howard";
 duckchain.chain[1].hash = duckchain.chain[1].calculateHash();
 console.log('Is the Duckchain valid? ' + duckchain.isChainValid());

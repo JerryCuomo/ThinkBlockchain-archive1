@@ -100,7 +100,7 @@ barrymosakowski@barrymosakow-mac Duckchain %
 
 **4. Describe the two major changes in the code**.
 1.  In calculateHash() the nonce was added to the newHash variable.     
-2.  The mineBlock function has a tight loop while loop that will run until the hash starts with 000.     
+2.  The mineBlock function has a tight loop while loop that will run until the hash starts with 000.         
 
 **5. Explain in words what is occurring here in this snippet of code.   
 ```

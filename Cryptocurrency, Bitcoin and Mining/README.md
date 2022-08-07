@@ -9,7 +9,7 @@
  and open the `mining.js` file with your editor of choice.      
 
 **2.  What function was added?**.    
-mindBlock.    
+mineBlock.        
 
 
 **3.  Run a diff between duckchain.js and mining.js and paste the out put here.**.

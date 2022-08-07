@@ -3,15 +3,13 @@
 ## Chapter Assignments     
 
 
-- [How Blockchain Works](https://github.com/bmos299/ThinkBlockchain/tree/main/How%20Blockchain%20Works)
-- [Cryptocurrency, Bitcoin and Mining](https://github.com/bmos299/ThinkBlockchain/tree/main/Cryptocurrency%2C%20Bitcoin%20and%20Mining)
-- [Tokens, Ethereum and Smart contracts](https://github.com/bmos299/Blockchain101/tree/main/Tokens%2C%20Ethereum%20and%20Smart%20Contracts)
+- [How Blockchain Works](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/How%20Blockchain%20Works)
+- [Cryptocurrency, Bitcoin and Mining](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/Cryptocurrency%2C%20Bitcoin%20and%20Mining)
+- [Tokens, Ethereum and Smart contracts](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/Tokens%2C%20Ethereum%20and%20Smart%20Contracts)
  
 ## Getting Started -- Setup!
 
-1.  Clone the repository as you desire.  Here is the repository: https://github.com/bmos299/ThinkBlockchain
-You can clone the repository however you choose.  Here is a sample cli command to clone a repository:
-`git clone https://github.com/bmos299/ThinkBlockchain.git`
+1.  Fork the base repository, https://github.com/JerryCuomo/ThinkBlockchain.  You will need this for the labs.  In the forked repository you can either clone the repository or make changes directly in the files as per the labs.    
 
 2.  On your laptop or desktop ensure you have installed npm.  
 
@@ -27,7 +25,7 @@ Install the package(s):
 You should see: *crypto-js*
 
 ## Chapter Assignments
-1.  Goto [How Blockchain Works](https://github.com/bmos299/ThinkBlockchain/tree/main/How%20Blockchain%20Works) and follow the README.md.
+1.  Goto [How Blockchain Works](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/How%20Blockchain%20Works) and follow the README.md.
  
 ## Contributing
 

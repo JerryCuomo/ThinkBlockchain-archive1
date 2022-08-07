@@ -150,7 +150,8 @@ barrymosakowski@barrymosakow-mac Duckchain %
 ``` 
 
 **7. What is missing to make this a true blockchain implementation**.     
-Consensus!  The code is great and does an excellent job representing the structures and algorithms.  That being said, the power of blockchain is the aspect of distributed computing.  If we simply add a mechanism for the nodes running mining.js (or even duckchain.js) with each other and verify the results through a consensus algorithm....we will be ready to ship!  Note: this is easier said than done! 
+Consensus!  The code is great and does an excellent job representing the structures and algorithms.  That being said, the power of blockchain is the aspect of distributed computing.  If we simply add a mechanism for the nodes running mining.js (or even duckchain.js) with each other and verify the results through a consensus algorithm....we will be ready to ship!     
+Note: this is easier said than done! 
 
  
 

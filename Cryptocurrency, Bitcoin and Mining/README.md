@@ -8,7 +8,8 @@
 `cd samplecode/Duckchain`.    
  and open the `mining.js` file with your editor of choice.      
 
-**2.  What function was added?**.    
+**2.  What function was added?**
+mindBlock.    
 
 
 **3.  Run a diff between duckchain.js and mining.js and paste the out put here.**.

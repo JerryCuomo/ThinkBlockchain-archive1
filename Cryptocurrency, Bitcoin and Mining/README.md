@@ -4,7 +4,7 @@
 
 **Please submit a PR with your answers.  Your answers should be added to this README.md file.** 
 
-**1.  Go into the sampecode directory**.    
+**1.  Go into the sampecode directory and open the mining.js code**.    
 `cd samplecode/Duckchain`.    
  and open the `mining.js` file with your editor of choice.      
 

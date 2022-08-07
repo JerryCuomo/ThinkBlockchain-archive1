@@ -98,7 +98,7 @@ barrymosakowski@barrymosakow-mac Duckchain % diff duckchain.js mining.js
 barrymosakowski@barrymosakow-mac Duckchain %
 ```
 
-**4. Describe the two major changes in the code.**.       
+**4. Describe the two major changes in the code**.       
  
 
 **3.  How many functions in duckchain.js?**.    

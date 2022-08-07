@@ -114,7 +114,40 @@ barrymosakowski@barrymosakow-mac Duckchain %
 ```
 This is the mining...let's explain.  We identify the difficulty of the mine by the number of leading zeros we must have in hash.  For example, if the difficulty is three, then the hash must start with 000.  How do we get this?  This is achieved through the nonce.   So what the code is doing is running in a tight loop where the hash must start with "000" as shown in line 109.  If it does not, we supply add one to the nonce, recalculate the hash, and again check for the leading zeros.   You can easily prove this by adding some print statments in the code.   Now, what gets very interesting is the number of leading 0's.  The difficulty factor grows exponentially. The rule of thumb is for every leading zero, the number of possibilites doubles.     
 
-**6.  Modify the difficulty up to 6 in the code and print out the nonce value. 
+**6. Run mining.js : `node mining.js` and paste the results**. 
+```
+barrymosakowski@barrymosakow-mac Duckchain % node mining.js
+mining block..3
+mining block..6
+{
+  "chain": [
+    {
+      "index": 0,
+      "data": "Genesis Block Quack Quack!",
+      "nonce": 0,
+      "hash": "7aa486e9adf2626464fd8e7e3abae6614ad0c8d587dd5b95fd2809755c439718",
+      "previousHash": 0
+    },
+    {
+      "index": 1,
+      "data": "donald",
+      "nonce": 5166,
+      "hash": "000ad18b8f20f6f0f38d05551428868943ebd3c2e35baea563b5fe5287423233",
+      "previousHash": "7aa486e9adf2626464fd8e7e3abae6614ad0c8d587dd5b95fd2809755c439718"
+    },
+    {
+      "index": 2,
+      "data": "daffy",
+      "nonce": 30141575,
+      "hash": "000000ffb8442375617ee41ce5971983b0ba07e722ee6e03e3fe446618812ac5",
+      "previousHash": "000ad18b8f20f6f0f38d05551428868943ebd3c2e35baea563b5fe5287423233"
+    }
+  ],
+  "difficulty": 6
+}
+Is the Duckchain valid? true
+barrymosakowski@barrymosakow-mac Duckchain % 
+``` 
 
  
 

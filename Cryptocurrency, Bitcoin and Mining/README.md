@@ -98,7 +98,9 @@ barrymosakowski@barrymosakow-mac Duckchain % diff duckchain.js mining.js
 barrymosakowski@barrymosakow-mac Duckchain %
 ```
 
-**4. Describe the two major changes in the code**.       
+**4. Describe the two major changes in the code**.
+1.  In calculateHash() the nonce was added to the newHash variable.     
+2.  The mineBlock function has a tight loop while loop that will run until `
  
 
 **3.  How many functions in duckchain.js?**.    

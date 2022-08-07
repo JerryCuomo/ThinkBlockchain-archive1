@@ -25,7 +25,8 @@ Install the package(s):
 You should see: *crypto-js*
 
 ## Chapter Assignments
-1.  Goto [How Blockchain Works](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/How%20Blockchain%20Works) and follow the README.md.
+1.  Goto [How Blockchain Works](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/How%20Blockchain%20Works) and follow the instructions in the  README.md.
+2.  Goto [Cryptocurrency, Bitcoin and Mining](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/Cryptocurrency%2C%20Bitcoin%20and%20Mining) and follow the instructions in the README.md.      
  
 ## Contributing
 

@@ -8,11 +8,13 @@
 `cd samplecode/Duckchain`.    
  and open the `mining.js` file with your editor of choice.      
 
-**2.  How many classes do you see?**.    
-Two.
+**2.  What function was added?**.    
 
-**What are the classes?**.    
-Block and Blockchain
+
+**3.  Run a diff between duckchain.js and mining.js and paste the out put here.**.   
+
+**4. Describe the two major changes in the code.**.    
+ 
 
 **3.  How many functions in duckchain.js?**.    
 Seven.     

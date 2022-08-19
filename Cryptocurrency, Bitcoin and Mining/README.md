@@ -9,7 +9,7 @@ Go into the sampecode directory and open the mining.js code in a new tab on your
 mineBlock.        
 
 
-**2.  Run a diff between duckchain.js and mining.js and paste the out put here.**.
+**2.  Run a diff between duckchain.js and mining.js.  What is the new function added?  Can you describe what it does?  
 ```
 barrymosakowski@barrymosakow-mac Duckchain % diff duckchain.js mining.js
 7c7

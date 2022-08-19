@@ -3,8 +3,6 @@
 
 ## Let's review the code then run it!
 
-**Please submit a PR with your answers.  Your answers should be added to this README.md file.** 
-
 **1.  Go into the sampecode directory and open the duckchain.js code**.    
 `cd samplecode/Duckchain`.    
 and open the `duckchain.js` file with your editor of choice.     

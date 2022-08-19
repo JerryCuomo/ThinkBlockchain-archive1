@@ -3,7 +3,7 @@
 
 ## Let's review the code then run it!
 
-Go into the sampecode directory and open the duckchain.js code**.    
+Go into the sampecode directory and open the duckchain.js code.    
 [duckchain](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/samplecode/Duckchain) 
     
 Open the `duckchain.js` file with your editor of choice.     

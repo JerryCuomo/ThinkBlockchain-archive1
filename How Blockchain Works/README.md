@@ -3,20 +3,21 @@
 
 ## Let's review the code then run it!
 
-**1.  Go into the sampecode directory and open the duckchain.js code**.    
-`cd samplecode/Duckchain`.    
-and open the `duckchain.js` file with your editor of choice.     
+Go into the sampecode directory and open the duckchain.js code**.    
+[duckchain](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/samplecode/Duckchain`cd samplecode/Duckchain). 
 
-**2.  How many classes do you see?**.    
+Open the `duckchain.js` file with your editor of choice.     
+
+**1.  How many classes do you see?**.    
 Two.
 
-**3.  What are the classes?**.    
+**2.  What are the classes?**.    
 Block and Blockchain
 
-**4.  How many functions in duckchain.js?**.    
+**3.  How many functions in duckchain.js?**.    
 Seven.     
 
-**5.  What are the functions in duckchain.js?**.         
+**4.  What are the functions in duckchain.js?**.         
 Two constructor functions for the classes (Block and Blockchain).    
 The other functions are:        
 calculateHash.      
@@ -25,10 +26,10 @@ getLatestBlock.
 addBlock.     
 isChainValid.     
 
-**6.  Run the code**.     
+**5.  Run the code**.     
 `node duckchain.js`.    
 
-**7.  Cut and paste the output from the run.**
+**6.  Cut and paste the output from the run.**
 ```
 barrymosakowski@barrymosakow-mac Duckchain % node duckchain.js
 {
@@ -61,7 +62,7 @@ barrymosakowski@barrymosakow-mac Duckchain %
 ```
      
 
- **8.  Explain in words and show the lines of code that caught the hack of our blockchain**.    
+ **7.  Explain in words and show the lines of code that caught the hack of our blockchain**.    
  The code in duckchain.js modified the the block for index 1.   It changed the data and then recalculated the hash.  
 ```
 duckchain.chain[1].data = "howard";
@@ -81,7 +82,7 @@ How this was caught was using the function isChainValid().  And the reason is Bl
 
 You can always add console.log's around this statement to prove the values do not match any longer.     
 
-**9.  Add another block to the end of duckchain.js using your first and last name as the data and cut and paste the output here.  Also show the line of code you added**.
+**8.  Add another block to the end of duckchain.js using your first and last name as the data and cut and paste the output here.  Also show the line of code you added**.
 
 ```
 duckchain.addBlock(new Block(3, "barrymosakowski" ));

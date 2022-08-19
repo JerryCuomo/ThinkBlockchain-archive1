@@ -2,15 +2,14 @@
 
 ## Let's review the code then run it!
 
-**1.  Go into the sampecode directory and open the mining.js code**.    
-`cd samplecode/Duckchain`.    
- and open the `mining.js` file with your editor of choice.      
-
-**2.  What function was added?**.    
+Go into the sampecode directory and open the mining.js code in a new tab on your browser. Keep this tab open!   
+[mining.js](https://github.com/JerryCuomo/ThinkBlockchain/blob/main/samplecode/Duckchain/mining.js)
+   
+**1.  What function was added?**.    
 mineBlock.        
 
 
-**3.  Run a diff between duckchain.js and mining.js and paste the out put here.**.
+**2.  Run a diff between duckchain.js and mining.js and paste the out put here.**.
 ```
 barrymosakowski@barrymosakow-mac Duckchain % diff duckchain.js mining.js
 7c7

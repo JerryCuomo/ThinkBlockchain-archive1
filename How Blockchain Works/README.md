@@ -6,8 +6,7 @@
 Go into the sampecode directory and open the duckchain.js code in a new tab on your browser. Keep this tab open!   
 [duckchain.js](https://github.com/JerryCuomo/ThinkBlockchain/blob/main/samplecode/Duckchain/duckchain.js) 
     
-Open the `duckchain.js` file with your editor of choice or browse in your browser.     
-
+ 
 **1.  How many classes do you see?**.    
 Two.
 

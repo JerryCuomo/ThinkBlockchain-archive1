@@ -4,7 +4,7 @@
 ## Let's review the code then run it!
 
 Go into the sampecode directory and open the duckchain.js code**.    
-[duckchain](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/samplecode/Duckchain`cd samplecode/Duckchain) 
+[duckchain](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/samplecode/Duckchain) 
     
 Open the `duckchain.js` file with your editor of choice.     
 
@@ -18,7 +18,7 @@ Block and Blockchain
 Seven.     
 
 **4.  What are the functions in duckchain.js?**.         
-Two constructor functions for the classes (Block and Blockchain).    
+Two constructor functions for the classes (1 in class Block and 1 in class Blockchain).    
 The other functions are:        
 calculateHash.      
 createGenesisBlock.         

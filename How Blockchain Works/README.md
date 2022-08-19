@@ -4,8 +4,8 @@
 ## Let's review the code then run it!
 
 Go into the sampecode directory and open the duckchain.js code**.    
-[duckchain](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/samplecode/Duckchain`cd samplecode/Duckchain). 
-
+[duckchain](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/samplecode/Duckchain`cd samplecode/Duckchain) 
+    
 Open the `duckchain.js` file with your editor of choice.     
 
 **1.  How many classes do you see?**.    

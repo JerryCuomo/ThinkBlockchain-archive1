@@ -8,7 +8,7 @@ Go into the sampecode directory and open the mining.js code in a new tab on your
 **1.  What function was added?**.    
 mineBlock. 
 
-Here is 
+Here is the code: 
 
 ```
     mineBlock(difficulty) {
@@ -61,9 +61,9 @@ Is the Duckchain valid? true
 barrymosakowski@barrymosakow-mac Duckchain % 
 ``` 
 
-**5.  For index=2 how many times do we loop trying to find the correct nonce?**.  
+**5.  For index=2 how many times do we loop trying to find the correct nonce?**  
 
-**6. What is missing to make this a true blockchain implementation?**.     
+**6. What is missing to make this a true blockchain implementation?**     
 Consensus!  The code is great and does an excellent job representing the structures and algorithms.  That being said, the power of blockchain is the aspect of distributed computing.  If we simply add a mechanism for the nodes running mining.js (or even duckchain.js) with each other and verify the results through a consensus algorithm....we will be ready to ship!     
 Note: this is easier said than done! 
 

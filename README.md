@@ -14,6 +14,10 @@ For those taking the course and answering the questions from the course, follow 
  
 ## Getting Started -- Setup!
 
+#Prerequsite
+Based on your operating system (windows, linux, mac) you can install the IDE (Individal Development Environment) of your choice.  A popular tool is Visual Studio Code (VS Code.  VS Code is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
+Here is how you can download VSCode, [VSCode Download](https://code.visualstudio.com/download).  
+
 1.  Fork or clone the base repository, https://github.com/JerryCuomo/ThinkBlockchain.  You will need this for the labs.  In the forked repository you can either clone the repository or make changes directly in the files as per the labs.    
 
 2.  On your laptop or desktop ensure you have installed npm.  

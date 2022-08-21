@@ -20,7 +20,7 @@ Based on your operating system (windows, linux, mac) you can install the IDE (In
 Also, you will need the node program manager (NPM).  NPM is a package manager for the JavaScript programming language maintained by npm, Inc. NPM is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. 
 
 * [IBM Cloud account](https://cloud.ibm.com/registration/?target=%2Fdashboard%2Fapps)
-* [VS Code Download]([https://code.visualstudio.com/download])
+* [VS Code Download](https://code.visualstudio.com/download)
 
 *. [VSCode Download](https://code.visualstudio.com/download).  
 

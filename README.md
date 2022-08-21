@@ -7,7 +7,10 @@
 - [Cryptocurrency, Bitcoin and Mining](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/Cryptocurrency%2C%20Bitcoin%20and%20Mining)
 - [Tokens, Ethereum and Smart contracts](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/Tokens%2C%20Ethereum%20and%20Smart%20Contracts)
 
-For those that want to execute and run the labs, follow the instructions below.  For those taking the course and answering the questions, follow the questions in your NC State course material and you do not need to clone or fork the repository. The questions can be answered through using your browser and manuevering through this git repository. 
+For those that want to execute and run the labs, follow the instructions below.    
+
+*Note 1: 
+For those taking the course and answering the questions from the course, follow the questions in your NC State quiz course material and you do not need to clone or fork the repository. The questions can be answered through using your browser and manuevering through this git repository. 
  
 ## Getting Started -- Setup!
 

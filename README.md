@@ -42,8 +42,3 @@ You should see: *crypto-js*
 1.  Goto [How Blockchain Works](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/How%20Blockchain%20Works) and follow the instructions in the  README.md.
 2.  Goto [Cryptocurrency, Bitcoin and Mining](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/Cryptocurrency%2C%20Bitcoin%20and%20Mining) and follow the instructions in the README.md.      
  
-## Contributing
-
-We welcome contributions to the Blockchain 101 class from a code and informational perspective.
-There’s always plenty to do! Check [the documentation on how to contribute to this class](http://yahoo.com)
-for the full details.

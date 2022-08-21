@@ -6,10 +6,12 @@
 - [How Blockchain Works](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/How%20Blockchain%20Works)
 - [Cryptocurrency, Bitcoin and Mining](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/Cryptocurrency%2C%20Bitcoin%20and%20Mining)
 - [Tokens, Ethereum and Smart contracts](https://github.com/JerryCuomo/ThinkBlockchain/tree/main/Tokens%2C%20Ethereum%20and%20Smart%20Contracts)
+
+For those that want to execute and run the labs, follow the instructions below.  For those taking the course and answering the questions, follow the questions in your NC State course material and you do not need to clone or fork the repository. The questions can be answered through using your browser and manuevering through this git repository. 
  
 ## Getting Started -- Setup!
 
-1.  Fork the base repository, https://github.com/JerryCuomo/ThinkBlockchain.  You will need this for the labs.  In the forked repository you can either clone the repository or make changes directly in the files as per the labs.    
+1.  Fork or clone the base repository, https://github.com/JerryCuomo/ThinkBlockchain.  You will need this for the labs.  In the forked repository you can either clone the repository or make changes directly in the files as per the labs.    
 
 2.  On your laptop or desktop ensure you have installed npm.  
 

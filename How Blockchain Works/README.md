@@ -1,5 +1,6 @@
 # How Blockchain Works
 
+## Questions submitted by bmos
 
 ## Let's review the code then run it!
 
@@ -117,3 +118,39 @@ barrymosakowski@barrymosakow-mac Duckchain % node duckchain3.js
 }
 Is the Duckchain valid? true
 ```
+
+## Questions submitted by @JerryCuomo
+
+### Question 1
+#### Duckchain.js defines two classes, which are:
+
+a. calculateHash and createGenesisBlock
+b. Block and Blockchain
+c. donald and howard
+d. getLastBlock and isChainValid
+
+### Question 2
+#### Which best describes the two "hash" fields in the Block class
+
+a. this.hash is the hash of the block 
+b. this.previousHash is the has of the last block issued
+c. this.previousHash equal zero if the previous block is the genesis block
+d. All of the above
+
+### Question 3
+#### What are the two conditions that need to be true for the blockchain needs to be valid?
+
+a. The first test involves recalculating the Block’s hash and comparing it to the hash value currently set for the Block. The second test is to check that the hash of this Block’s previous hash value is actually equal to the previous Block’s hash value.
+
+b. The first test involves recalculating the Genesis Block's hash and comparing it to the hash value currently set for the Block. The second test is to check that the hash of this Block’s previous hash value is actually equal to the previous Block’s hash value.
+
+### Question 4
+
+#### In the Duckchain sample, the test code tries to tamper with the first block in the Duckchain, changing the data field from Donald to Howard. We try to mask this devious task by also recalculating the hash for this block thinking that perhaps no one will notice. Does this trick make the Duckchain valid again?
+
+##### Select one:
+True
+False
+
+
+
